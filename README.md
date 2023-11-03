@@ -16,3 +16,5 @@ Launching a website on AWS
 - Navigate to Route 53 in AWS by using the search
 
 - Press Register Domain and check desired domain availability. I used ryanonacloud.com and it was available.
+![alt text](images/Domain.png)
+
