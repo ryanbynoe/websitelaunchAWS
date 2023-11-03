@@ -20,6 +20,7 @@ Launching a website on AWS
 
 - Selected the domain and completed Pricing and Contact information. I turned off autorenew and set it up for 1 year. The Top level Domain(TLD) was the cheapest option for this project ".click" For the domain to fully register, this took about 15 minutes under this top level domain. 
 
+## S3 Bucket setup
 - Navigate to S3 and create a bucket. name the bucket after the domain that was created. I chose the region US East (N. Virginia) us-east-1 for less latency. Uncheck Block all Public Access so the bucket is accessible by others. Everything else I left default.
 
 ![alt text](images/S3bucket.png)
@@ -29,7 +30,8 @@ Launching a website on AWS
 - Properties and then Enable Static website hosting 
 ![alt text](images/static.png)
 
-- Added a Bucket Policy under permissions
+- Added a Bucket Policy under permissions. Template below for the bucket policy. Change the [Bucket-Name] to the bucket name created.
+
 ```js
 {
     "Version": "2012-10-17",
@@ -48,5 +50,17 @@ Launching a website on AWS
     ]
 } 
 ```
+
+## Route 53 Using Domain to load website
+- Route 53 - Under Hosted Zones - View the details of the domain and create record. I switched to the wizard and used the Simple Routing Policy. 
+
+![alt text](images/static.png)
+
+## Result Sample Website
+
+- Go to ryanonacloud.click to see the project example website.
+
+![alt text](images/result.png)
+
 
 
