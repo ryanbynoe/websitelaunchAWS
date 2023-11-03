@@ -1,5 +1,17 @@
 # websitelaunchAWS
 Launching a website on AWS
+## Credits
+- Thank you to TechWithLucy
+
+## Services/ Tools Used:
+- Amazon S3
+- Amazon Route 53
+- Amazon S3 
+
+# Cost
+- $3 for domain
+
+
 
 ## Initial Steps to Hosting Website with Custom Domain
 
