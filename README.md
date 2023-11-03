@@ -8,3 +8,5 @@ Launching a website on AWS
 - Host  website on an Amazon S3 Bucket: To make  website accessible on the internet,  can use an Amazon S3 Bucket, a scalable and cost-effective storage service. By storing  website's files in an S3 Bucket,  ensure that they are securely stored and easily retrievable.
 
 - Enable static website hosting and link the domain to the S3 bucket: Once  website files are stored in the S3 Bucket,  can enable static website hosting for the bucket. This feature allows  to serve  website's content directly from the S3 Bucket, and can then configure Amazon Route 53 to route traffic from  custom domain to the S3 Bucket, making  website accessible under  chosen domain name.
+
+![alt text](https://lucid.app/publicSegments/view/792134c5-9bde-45ef-b1cb-9eeb0c6eb04a/image.pdf)
