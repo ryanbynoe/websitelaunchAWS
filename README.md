@@ -11,3 +11,8 @@ Launching a website on AWS
 
 ![alt text](https://lucid.app/publicSegments/view/36be42fc-a4ea-49c9-8f7b-c6dd5101ca2a/image.jpeg)
 
+## Route 53 Domain
+
+- Navigate to Route 53 in AWS by using the search
+
+- Press Register Domain and check desired domain availability. I used ryanonacloud.com and it was available.
