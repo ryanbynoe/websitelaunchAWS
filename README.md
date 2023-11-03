@@ -18,4 +18,9 @@ Launching a website on AWS
 - Press Register Domain and check desired domain availability. I used ryanonacloud.com and it was available.
 ![alt text](images/Domain.png)
 
-- Selected the domain and completed Pricing and Contact information. I turned off autorenew and set it up for 1 year. The Top level Domain(TLD) was the cheapest option for this project ".click"
+- Selected the domain and completed Pricing and Contact information. I turned off autorenew and set it up for 1 year. The Top level Domain(TLD) was the cheapest option for this project ".click" For the domain to fully register, this took about 15 minutes under this top level domain. 
+
+- Navigate to S3 and create a bucket. name the bucket after the domain that was created. I chose the region US East (N. Virginia) us-east-1 for less latency. Uncheck Block all Public Access so the bucket is accessible by others. Everything else I left default.
+
+![alt text](images/S3bucket.png)
+
