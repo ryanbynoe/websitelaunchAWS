@@ -4,7 +4,7 @@ Launching a website on AWS
 ## Services/ Tools Used:
 - Amazon S3
 - Amazon Route 53
-- Amazon S3 
+- Amazon CloudFront
 
 # Cost
 - $3 for domain
@@ -19,7 +19,7 @@ Launching a website on AWS
 
 - Enable static website hosting and link the domain to the S3 bucket: Once  website files are stored in the S3 Bucket,  can enable static website hosting for the bucket. This feature allows  to serve  website's content directly from the S3 Bucket, and can then configure Amazon Route 53 to route traffic from  custom domain to the S3 Bucket, making  website accessible under  chosen domain name.
 
-![alt text](images/architecture.png)
+![alt text](images/viz.png)
 
 ## Route 53 Domain
 
