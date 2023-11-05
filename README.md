@@ -27,7 +27,7 @@ Launching a website on AWS
 
 - Navigate to Route 53 in AWS by using the search
 
-- Press Register Domain and check desired domain availability. I used ryanonacloud.com and it was available.
+- Press Register Domain and check desired domain availability. I used ryanonacloud.click and it was available.
 ![alt text](images/Domain.png)
 
 - Selected the domain and completed Pricing and Contact information. I turned off autorenew and set it up for 1 year. The Top level Domain(TLD) was the cheapest option for this project ".click" For the domain to fully register, this took about 15 minutes under this top level domain. 
