@@ -21,7 +21,7 @@ Launching a website on AWS
 
 - Enable static website hosting and link the domain to the S3 bucket: Once  website files are stored in the S3 Bucket,  can enable static website hosting for the bucket. This feature allows  to serve  website's content directly from the S3 Bucket, and can then configure Amazon Route 53 to route traffic from  custom domain to the S3 Bucket, making  website accessible under  chosen domain name.
 
-![alt text](https://lucid.app/publicSegments/view/36be42fc-a4ea-49c9-8f7b-c6dd5101ca2a/image.jpeg)
+![alt text](images/architecture.png)
 
 ## Route 53 Domain
 
@@ -72,7 +72,7 @@ Launching a website on AWS
 
 - Go to ryanonacloud.click to see the project example website.
 
-![alt text](images/result.png)
+![alt text](images/website.png)
 
 
 
