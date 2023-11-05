@@ -1,7 +1,5 @@
 # websitelaunchAWS
 Launching a website on AWS
-## Credits
-- Thank you to TechWithLucy
 
 ## Services/ Tools Used:
 - Amazon S3
