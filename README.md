@@ -66,6 +66,10 @@ Launching a website on AWS
 
 ![alt text](images/static.png)
 
+## Set up a Cloud Distribution
+
+- I followed the walkthrough Amazon provided: https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-cloudfront-walkthrough.html
+
 ## Result Sample Website
 
 - Go to ryanonacloud.click to see the project example website.
