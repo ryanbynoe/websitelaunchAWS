@@ -72,8 +72,6 @@ Launching a website on AWS
 
 ## Result Sample Website
 
-- Go to ryanonacloud.click to see the project example website.
-
 ![alt text](images/website.png)
 
 
